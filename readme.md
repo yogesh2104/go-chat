@@ -30,3 +30,8 @@ This application demonstrates using LangChainGo with Ollama to generate text for
 ```bash
 go run main.go -mode study -model mistral:7b
 ```
+
+### 📸 Screenshot
+
+![image info](./image.png)
+![image info](./image2.png)
